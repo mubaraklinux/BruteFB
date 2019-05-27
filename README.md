@@ -1,4 +1,4 @@
-## PLace the wordlist in the folder 'facebook-brute-force-sidtube'
+## PLace the wordlist in the folder 'BruteFB'
 ## Fullscreen while runing the code for faster bruteforce
 
 ```
